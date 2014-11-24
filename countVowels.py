@@ -1,4 +1,4 @@
-s = ['t', 'a', 'p', 'r', 'e', 'u', 'm', 'e', 'o', 'k']  # created a list, s, to use for testing outside of sandbox
+s = ['t', 'a', 'p', 'r', 'e', 'u', 'm', 'e', 'o', 'i']  # created a list, s, to use for testing outside of sandbox
 
 # 'x' = 0                                               # x instead of 'x'; single or double quotations specifies things as a string instead of a variable
 # 'v' = ['a' , 'e' , 'i' , 'o' , 'u']                   # v instead of 'v'; again, the quotations make v a string insead of a variable pointing to a list
